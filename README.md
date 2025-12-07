@@ -26,16 +26,6 @@ This project demonstrates the implementation of modern IAM principles including 
 - Accountability tracking for user activities
 - Integration with authentication providers
 
-## Project Structure
-
-```
-├── src/                    # Source code
-├── config/                 # Configuration files
-├── docs/                   # Documentation and reports
-├── tests/                  # Unit and integration tests
-└── README.md              # Project documentation
-```
-
 ## Technologies Used
 
 - **Keycloak** - Open-source Identity and Access Management solution
@@ -65,24 +55,6 @@ This project demonstrates understanding of:
 - Security policy enforcement and compliance
 - Integration of IAM solutions in enterprise environments
 
-## Course Context
-
-**Course**: SIT736 - Identity, Access Management and Physical Security  
-**Institution**: Deakin University  
-**Program**: Master of Cybersecurity
-
-## Setup & Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/Prem-CyberSec/SIT736-Identity_Access_Management-Project.git
-
-# Navigate to project directory
-cd SIT736-Identity_Access_Management-Project
-
-# Follow specific setup instructions in docs/
-```
-
 ## Documentation
 
 Detailed documentation includes:
@@ -98,16 +70,3 @@ Detailed documentation includes:
 - Comprehensive user training materials
 - Regular access permission reviews
 - Stakeholder engagement throughout development
-
-## Author
-
-**PremKumar Sharma**  
-Cybersecurity Graduate Student | Deakin University
-
-## License
-
-Academic project for educational purposes.
-
----
-
-*This project demonstrates practical application of IAM principles in securing modern applications and managing digital identities effectively.*
